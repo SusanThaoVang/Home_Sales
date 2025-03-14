@@ -61,4 +61,4 @@ What is the average price of a home per "view" rating having an average home pri
   59|     791453.0
 
 
-
+Open chatgpt on 03/12/2025, 03/13/2025. Also used past class activities examples to figure out codings. Collaborated with Mee Thao and Mai Houa Hang on, 13 Mar. 2025, and OpenAI. ChatGPT. OpenAI, 11 Mar. 2025,  Also referred to past class activities.
